@@ -1,4 +1,4 @@
-Code files description:
+Code files description to replicate Section 4 of the paper.
 
 LiZhang_gibbs_sampling.py which runs the Li and Zhang approach.
 
