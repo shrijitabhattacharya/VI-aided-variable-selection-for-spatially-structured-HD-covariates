@@ -1,7 +1,9 @@
-Code files
+Code files description:
 
-LiZhang_gibbs_sampling.py which runs the Li and Zhang approach
-VB_linear_chain.py which runs the VB approach for simulation data
+LiZhang_gibbs_sampling.py which runs the Li and Zhang approach.
+
+VB_linear_chain.py which runs the VB approach for simulation data.
+
 VB_image.py which runs the VB approach for image data.
 
 
